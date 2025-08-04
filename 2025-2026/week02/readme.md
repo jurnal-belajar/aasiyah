@@ -32,6 +32,11 @@
   Capaian: Video presentasi hasil handcraft (tempat pensil)  
   [Lihat log harian](./26juli2025.md)
 
+- **27 Juli 2025**  
+  Fokus: Baking (membuat donat)  
+  Capaian: Donat berbagai bentuk.  
+  [Lihat log harian](./27juli2025.md)
+
 ## 📈 Capaian Mingguan
 - Bidang Matematika: Menghitung uang tabungan Aasiyah dan yang dibutuhkan untuk membeli Yakult.
 - Bidang Literasi: Penggunaan uang untuk memenuhi kebutuhan.
