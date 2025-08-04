@@ -1,2 +1,0 @@
-# aasiyah
-Activity Log Aasiyah
