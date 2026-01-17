@@ -26,6 +26,7 @@ BASE_DIR=${1:-./2025-2026}
 BATCH_NAME=${2:-batchxx}
 START_DATE_STR=$3
 END_DATE_STR=$4
+UPDATE_README="${5:-}"
 
 BATCH_DIR="${BASE_DIR%/}/${BATCH_NAME}"
 
@@ -108,7 +109,7 @@ for idx, wstart, wend in weeks:
     readme = os.path.join(wf, "readme.md")
     if not os.path.exists(readme):
         with open(readme, "w", encoding="utf-8") as f:
-            f.write(f"# {wname.capitalize()} ({wstart.day:02d} {months[wstart.month-1].capitalize()} {wstart.year} - {wend.day:02d} {months[wend.month-1].capitalize()} {wend.year}) - Rangkuman Mingguan\n\n")
+            f.write(f"# Rangkuman Kegiatan Pekanan: {wname.capitalize()} ({wstart.day:02d} {months[wstart.month-1].capitalize()} {wstart.year} - {wend.day:02d} {months[wend.month-1].capitalize()} {wend.year})\n\n")
             f.write("[Kembali](../../readme.md)\n\n")
             f.write("## 🔍 Ringkasan Kegiatan per Hari\n\n")
 
@@ -143,4 +144,18 @@ PY
 
 echo "Done. Check: $BATCH_DIR"
 
-# End of file
+######################################
+# UPDATE README (via Python helper)
+######################################
+if [[ "$UPDATE_README" == "--update-readme" ]]; then
+  SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
+  PY_UPDATE_SCRIPT="$SCRIPT_DIR/update_readme.py"
+
+  if [[ ! -f "$PY_UPDATE_SCRIPT" ]]; then
+    echo "ERROR: update_readme.py not found at $PY_UPDATE_SCRIPT"
+    exit 1
+  fi
+
+  echo "Updating readme.md via update_readme.py ..."
+  python3 "$PY_UPDATE_SCRIPT" "$BASE_DIR" "$BATCH_NAME"
+fi

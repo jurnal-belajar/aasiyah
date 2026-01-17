@@ -29,3 +29,13 @@
 - [Rangkuman Kegiatan Pekanan: Week09 (01 Desember 2025 - 07 Desember 2025)](ganjil-batch02/week09/readme.md)
 - [Rangkuman Kegiatan Pekanan: Week10 (08 Desember 2025 - 14 Desember 2025)](ganjil-batch02/week10/readme.md)
 - [Rangkuman Kegiatan Pekanan: Week11 (15 Desember 2025 - 21 Desember 2025)](ganjil-batch02/week11/readme.md)
+
+### genap-batch01
+- [Rangkuman Kegiatan Pekanan: Week01 (12 Januari 2026 - 18 Januari 2026)](genap-batch01/week01/readme.md)
+- [Rangkuman Kegiatan Pekanan: Week02 (19 Januari 2026 - 25 Januari 2026)](genap-batch01/week02/readme.md)
+- [Rangkuman Kegiatan Pekanan: Week03 (26 Januari 2026 - 01 Februari 2026)](genap-batch01/week03/readme.md)
+- [Rangkuman Kegiatan Pekanan: Week04 (02 Februari 2026 - 08 Februari 2026)](genap-batch01/week04/readme.md)
+- [Rangkuman Kegiatan Pekanan: Week05 (09 Februari 2026 - 15 Februari 2026)](genap-batch01/week05/readme.md)
+- [Rangkuman Kegiatan Pekanan: Week06 (16 Februari 2026 - 22 Februari 2026)](genap-batch01/week06/readme.md)
+- [Rangkuman Kegiatan Pekanan: Week07 (23 Februari 2026 - 01 Maret 2026)](genap-batch01/week07/readme.md)
+- [Rangkuman Kegiatan Pekanan: Week08 (02 Maret 2026 - 08 Maret 2026)](genap-batch01/week08/readme.md)
