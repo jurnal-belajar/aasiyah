@@ -3,17 +3,24 @@
 
 ## 📌 Kegiatan
 1. Kegiatan Utama:
-   - Kegiatan: 
-   - Alat/bahan: 
-   - Durasi: 
+   - Kegiatan: Pagi, Abang dan kakak bermain dg teman masing². 
+     Selesai bermain, kita berkebun untuk merapikan kebun kecil depan rumah, lalu menanam benih baru.
+     Malamnya kami mencicil mengerjakan tugas bahasa inggris yang teetunda.
+     Selalu diusahakan terselip latihan membaca untuk kakak.
+     Belajar tentang cacing
+   - Alat/bahan: -
+   - Durasi: -
 
 ## 🎯 Capaian Kegiatan
-- 
+- Aktifitas outdoor.
+  Belajar membaca untuk kakak.
+  Grounding, berjemur.
 
 ## 🚧 Kendala
-- 
+- Ditengah berkebun sempat hujan, jd kegiatan berkebun ditunda sementara
 
 ## 🖼️ Dokumentasi Kegiatan
-![Foto 1](img/2026-01-16_1.jpeg)
+![Foto 1](img/2026-01-16_1.jpg)
+![Foto 2](img/2026-01-16_2.jpg)
 
 [Kembali](readme.md)

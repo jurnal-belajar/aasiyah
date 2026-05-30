@@ -3,17 +3,17 @@
 
 ## 📌 Kegiatan
 1. Kegiatan Utama:
-   - Kegiatan: 
-   - Alat/bahan: 
-   - Durasi: 
+   - Kegiatan: Mengamati akuarium aquascape - memperhatikan ikan dan pertumbuhan tanaman air.
+   - Alat/bahan: Akuarium aquascape.
+   - Durasi: -
 
 ## 🎯 Capaian Kegiatan
-- 
+- Mengamati perkembangan ekosistem akuarium.
 
 ## 🚧 Kendala
 - 
 
 ## 🖼️ Dokumentasi Kegiatan
-![Foto 1](img/2026-02-16_1.jpeg)
+![Foto 1](img/2026-02-16_1.jpg)
 
 [Kembali](readme.md)

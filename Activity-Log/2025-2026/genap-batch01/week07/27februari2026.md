@@ -3,17 +3,18 @@
 
 ## 📌 Kegiatan
 1. Kegiatan Utama:
-   - Kegiatan: 
-   - Alat/bahan: 
-   - Durasi: 
+   - Kegiatan: Membantu pekerjaan rumah membersihkan dan mengepel lantai.
+   - Alat/bahan: Alat pel, wiper, air.
+   - Durasi: -
 
 ## 🎯 Capaian Kegiatan
-- 
+- Bertanggung jawab atas kebersihan rumah.
+- Menyelesaikan tugas rumah dengan mandiri.
 
 ## 🚧 Kendala
 - 
 
 ## 🖼️ Dokumentasi Kegiatan
-![Foto 1](img/2026-02-27_1.jpeg)
+![Foto 1](img/2026-02-27_1.jpg)
 
 [Kembali](readme.md)

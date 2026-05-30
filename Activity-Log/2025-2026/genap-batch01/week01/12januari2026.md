@@ -3,17 +3,14 @@
 
 ## 📌 Kegiatan
 1. Kegiatan Utama:
-   - Kegiatan: 
-   - Alat/bahan: 
-   - Durasi: 
+   - Kegiatan: Kakak sedang semangat sekali belajar membacs, jd mayoritas kegiatannya membaca buku dan membacakan buku untuk adik. Kakak juga ikut kelas sc urban farming dg kak Andito dengan semangat.
+   - Alat/bahan: -
+   - Durasi: -
 
 ## 🎯 Capaian Kegiatan
-- 
+- Kakak melanjutkan belajar membaca dari buku milik kakak sendiri.
 
 ## 🚧 Kendala
-- 
-
-## 🖼️ Dokumentasi Kegiatan
-![Foto 1](img/2026-01-12_1.jpeg)
+- karena dari hari sebelumnya hujan deras terus menerus, maka kegiatan dilakukan di dalam rumah.
 
 [Kembali](readme.md)
